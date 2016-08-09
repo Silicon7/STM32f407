@@ -1,0 +1,30 @@
+Dependencies for Project 'adc_push_button', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f40_41xxx.s)(0x532C1D4A)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx--list .\startup_stm32f40_41xxx.lst --xref -o .\startup_stm32f40_41xxx.o --depend .\startup_stm32f40_41xxx.d)
+F (.\main.c)(0x57A8FBBA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (main.h)(0x57A8F88D)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x56599CA6)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C1D8A)
+I (gpio.h)(0x57A8F437)
+F (.\gpio.c)(0x57A8FB2C)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (main.h)(0x57A8F88D)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x56599CA6)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C1D8A)
+I (gpio.h)(0x57A8F437)
+F (.\system_stm32f4xx.c)(0x55E41F50)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\system_stm32f4xx.o --omf_browse .\system_stm32f4xx.crf --depend .\system_stm32f4xx.d)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x56599CA6)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C1D8A)
