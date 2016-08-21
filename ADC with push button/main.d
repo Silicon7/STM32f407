@@ -9,3 +9,4 @@
 .\main.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
 .\main.o: gpio.h
 .\main.o: main.h
+.\main.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
